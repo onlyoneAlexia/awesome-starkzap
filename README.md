@@ -87,6 +87,7 @@ Thanks goes to these wonderful people:
       <td align="center" valign="top" width="14.28%"><a href="https://adithyadinesh.xyz/"><img src="https://avatars.githubusercontent.com/u/153971735?v=4?s=100" width="100px;" alt="Adithya Dinesh"/><br /><sub><b>Adithya Dinesh</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=RealAdii" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sainathr19"><img src="https://avatars.githubusercontent.com/u/88471927?v=4?s=100" width="100px;" alt="Sainath Reddy"/><br /><sub><b>Sainath Reddy</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=sainathr19" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fearmexxx"><img src="https://avatars.githubusercontent.com/u/89799857?v=4?s=100" width="100px;" alt="maxxeth"/><br /><sub><b>maxxeth</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=fearmexxx" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/azeemshaik025"><img src="https://avatars.githubusercontent.com/u/108066377?v=4?s=100" width="100px;" alt="Azeem Shaik"/><br /><sub><b>Azeem Shaik</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=azeemshaik025" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
